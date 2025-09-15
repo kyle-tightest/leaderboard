@@ -15,6 +15,9 @@ def main():
         line = line.strip()
         if not line:
             continue
+        if line.startswith('#'):
+            # Comments are supported
+            continue
 
         try:
             team1_str, team2_str = line.split(',')
@@ -38,6 +41,9 @@ def main():
         except ValueError:
             print(f"Skipping invalid line: {line}", file=sys.stderr)
 
+    if teams is None or len(teams) == 0:
+        print("No valid input provided. Please see sample.txt for expected input format.", file=sys.stderr)
+        return
 
     sorted_teams = sorted(teams.items(), key=lambda item: (-item[1], item[0]))
 

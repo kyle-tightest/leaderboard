@@ -1,0 +1,47 @@
+# This sample was retreived by the following Chatgpt prompt: "give me the full list of premier league results this season in plain text in the format of "Chelsea 1, Manchester United 0"
+# Note: It seemed to struggle with matches on Monday, which I added in manually (only one this season so far).
+
+# Matchday 4
+Arsenal 3, Nottingham Forest 0  
+Fulham 1, Leeds United 0  
+Everton 0, Aston Villa 0  
+Crystal Palace 0, Sunderland 0  
+Bournemouth 2, Brighton & Hove Albion 1  
+Newcastle United 1, Wolverhampton Wanderers 0  
+West Ham United 0, Tottenham Hotspur 3  
+Brentford 2, Chelsea 2  
+Burnley 0, Liverpool 1  
+Manchester City 3, Manchester United 0
+# Matchday 3
+Chelsea 2, Fulham 0  
+Wolverhampton Wanderers 2, Everton 3  
+Sunderland 2, Brentford 1  
+Tottenham Hotspur 0, Bournemouth 1  
+Manchester United 3, Burnley 2  
+Leeds United 0, Newcastle United 0  
+Nottingham Forest 0, West Ham United 3  
+Brighton & Hove Albion 2, Manchester City 1  
+Liverpool 1, Arsenal 0  
+Aston Villa 0, Crystal Palace 3
+# Matchday 2
+West Ham United 1, Chelsea 5  
+Manchester City 0, Tottenham Hotspur 2  
+Bournemouth 1, Wolverhampton Wanderers 0  
+Brentford 1, Aston Villa 0  
+Burnley 2, Sunderland 0  
+Arsenal 5, Leeds United 0  
+Everton 2, Brighton & Hove Albion 0  
+Crystal Palace 1, Nottingham Forest 1  
+Fulham 1, Manchester United 1  
+Newcastle 2, Liverpool 3
+# Matchday 1
+Liverpool 4, Bournemouth 2  
+Aston Villa 0, Newcastle United 0  
+Brighton & Hove Albion 1, Fulham 1  
+Sunderland 3, West Ham United 0  
+Tottenham Hotspur 3, Burnley 0  
+Wolverhampton Wanderers 0, Manchester City 4  
+Nottingham Forest 3, Brentford 1  
+Chelsea 0, Crystal Palace 0  
+Manchester United 0, Arsenal 1  
+Leeds United 1, Everton 0
