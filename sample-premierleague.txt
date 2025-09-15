@@ -1,5 +1,5 @@
 # This sample was retreived by the following Chatgpt prompt: "give me the full list of premier league results this season in plain text in the format of "Chelsea 1, Manchester United 0"
-# Note: It seemed to struggle with matches on Monday, which I added in manually (only one this season so far).
+# Note: It seemed to struggle with one match on Monday, which I added in manually ("Newcastle 2, Liverpool 3").
 
 # Matchday 4
 Arsenal 3, Nottingham Forest 0  
