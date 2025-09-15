@@ -1,5 +1,7 @@
 # Leaderboard
 
+![Python Unit Tests](https://github.com/kyle-tightest/leaderboard/actions/workflows/python-tests.yml/badge.svg?branch=master)
+
 A Python command-line program to calculate and display a ranking table for a league based on match results.
 
 ## Features
